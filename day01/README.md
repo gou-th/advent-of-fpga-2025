@@ -45,7 +45,7 @@ Both parts follow the simple interface -
 - `dir` – rotation direction (0 = left, 1 = right)
 - `steps` – number of clicks to rotate
 
-The testbenches read from the original puzzle input `input.txt`.
+The testbenches read from the original puzzle input [input.txt](input.txt).
 
 ## Expected results:
 - Part 1: 1100
