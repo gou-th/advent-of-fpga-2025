@@ -5,8 +5,11 @@ This repository contains RTL solutions to Advent of Code as a part of Jane Stree
 ## Structure 
 
 day__/
+
 rtl/
+
 testbench/
+
 README.md
 
 ## Tools 
