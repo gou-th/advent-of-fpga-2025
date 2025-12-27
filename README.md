@@ -17,9 +17,7 @@ README.md
 
 [Day01](day01/)
 
----
-
-More about the challenge - 
+## More about the challenge - 
 
 [Advent of FPGA](https://blog.janestreet.com/advent-of-fpga-challenge-2025/)
 [Advent of Code](https://adventofcode.com/2025/about)
