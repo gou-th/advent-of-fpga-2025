@@ -18,7 +18,7 @@ The dial starts at 50. Each input rotates the dial left or right by a given numb
 
 ### Files 
 - [Part 1 RTL](rtl/day01_part1.v)
-- [Part 1 Testbench](tb/tb_day01_part1.v)
+- [Part 1 Testbench](testbench/tb_day01_part1.v)
 
 ---
 
@@ -34,4 +34,19 @@ The dial must be counted every time it lands on position 0 including during inte
 
 ### Files
 - [Part 2 RTL](rtl/day01_part2.v)
-- [Part 2 Testbench](tb/tb_day01_part2.v)
+- [Part 2 Testbench](testbench/tb_day01_part2.v)
+
+## Interface
+
+Both parts follow the simple interface -
+
+- `valid` – indicates that a new input is available
+- `ready` – indicates the module is ready to accept a command/input
+- `dir` – rotation direction (0 = left, 1 = right)
+- `steps` – number of clicks to rotate
+
+The testbenches read from the original puzzle input `input.txt`.
+
+## Expected results:
+- Part 1: 1100
+- Part 2: 6358
