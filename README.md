@@ -25,3 +25,5 @@ README.md
 More about the challenge - 
 
 [Advent of FPGA](https://blog.janestreet.com/advent-of-fpga-challenge-2025/)
+[Advent of Code](https://adventofcode.com/2025/about)
+
