@@ -18,7 +18,7 @@ README.md
 
 ## Solution of the puzzles 
 
-[Day01](day01/)
+[Day-01 Solution](day01/)
 
 ## More about the challenge - 
 
